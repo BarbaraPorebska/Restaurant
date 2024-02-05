@@ -1,4 +1,4 @@
-My task was to model a Restaurant:
+<br><b>My task was to model a Restaurant:</br></b>
 
 In a Restaurant different kinds of people can exist at the same time: Chefs, Waiters and Guests.
 All people who are inside a Restaurant have a name and can be identified uniquely by an ID number.
